@@ -1,12 +1,34 @@
-# Course Material and FAQ for the Ultimate React Course
+# ⚛️ The Ultimate React Course: My Progress
 
-This branch of the repo contains starter files and final code for all sections and projects of the course, **exactly as shown in the videos**.
+Привіт! Мене звати Андрій, і тут я зберігаю свої проекти та навчальні матеріали під час проходження курсу Джонаса Шмедтмана. Це мій шлях до опанування Full-stack розробки на React.
 
-Use starter code to start each section, and **final code to compare it with your own code whenever something doesn't work**!
+## 🚀 Мій прогрес
 
-🚨 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the course_** 🚨
+- [x] **Section 02:** JavaScript Review (Destructuring, Spread, Async/Await) — _Завершено_ ✅
+- [ ] **Section 03:** Pure React (Основи без інструментів збірки) — _В процесі_ 🏗️
+- [ ] **Section 04:** State, Events, and Forms (Інтерактивність) — _Скоро_ ⏳
+- [ ] **Section 05:** Thinking in React: Components, Composition, and Reusability — _Скоро_ ⏳
+- [ ] **Section 06:** State Management (Travel List Project) — _Скоро_ ⏳
+- [ ] **Section 07:** Thinking about State and Lifting State Up — _Скоро_ ⏳
+- [ ] **Section 10:** Multipage Applications with React Router (WorldWise) — _Скоро_ ⏳
+- [ ] **Section 12:** The Context API (Управління станом на рівні додатку) — _Скоро_ ⏳
+- [ ] **Section 15:** Redux and Modern Redux Toolkit — _Скоро_ ⏳
+- [ ] **Section 17:** React Query: Managing Remote State (The Wild Oasis) — _Скоро_ ⏳
+- [ ] **Section 22:** Next.js: The Ultimate Framework — _Скоро_ ⏳
 
-## FAQ
+## 📂 Структура репозиторію
+
+Кожна папка відповідає конкретній секції курсу. Всередині зазвичай є дві версії:
+
+1. `starter` — папка, в якій я пишу свій код під час проходження уроків.
+2. `final` — завершений проект від автора курсу (використовую для самоперевірки).
+
+---
+
+### 📖 Довідка по курсу (FAQ від Джонаса)
+
+<details>
+<summary>Натисни, щоб розгорнути корисну інформацію та відповіді на питання</summary>
 
 ### Q1: How do I download the files?
 
@@ -66,3 +88,5 @@ Use starter code to start each section, and **final code to compare it with your
 ### Q12: Do you accept pull requests?
 
 **A:** No, because this repository should contain the _exact_ same code that is shown in the videos. _However, feel free to add an issue if you found one._
+
+</details>
